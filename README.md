@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E4057&height=200&section=header&text=Pakistan%20Crop%20Price%20Analysis&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Time-Series%20Data%20Mining%20%7C%20FAST-NUCES%20Spring%202026&descAlignY=58&descSize=16" width="100%"/>
-
 # 🌾 Time-Series Data Analysis and Trend Discovery in Pakistan's Crop Prices
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -307,6 +305,33 @@ The notebook is fully sequential. All output charts are saved automatically to t
 - 📄 [Project Proposal](./Data_Mining_Project_Proposal.docx)
 - 📄 [Mid-Semester Progress Report](./DM_MidSemester_Progress_Report.docx)
 
+---
+
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Taha Nawaz</b><br/>
+      <sub>23L-2644</sub><br/>
+      <a href="https://github.com/tahanawaz">@tahanawaz</a>
+    </td>
+    <td align="center">
+      <b>Ali Ahmad</b><br/>
+      <sub>23L-2619</sub><br/>
+      <a href="https://github.com/aliahmad">@aliahmad</a>
+    </td>
+    <td align="center">
+      <b>Shahzeb Imran</b><br/>
+      <sub>23L-2506</sub><br/>
+      <a href="https://github.com/shahzebimran">@shahzebimran</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 Update the `@username` links above with your actual GitHub usernames before publishing.
+
+---
 
 ## 🙏 Acknowledgements
 
@@ -325,8 +350,6 @@ Developed for academic purposes at FAST-NUCES as part of the Data Mining course 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E4057&height=100&section=footer" width="100%"/>
 
 *Made with ❤️ at FAST-NUCES · Spring 2026*
 
